@@ -1,2 +1,3 @@
 # band-showcase
-website to show band, their album, and award (if any)
+Website to show band, their album, and award (if any)
+Created with MEAN Stack 
